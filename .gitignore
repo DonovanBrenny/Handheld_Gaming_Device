@@ -1,0 +1,62 @@
+# ─────────────────────────────────────────
+# KiCad
+# ─────────────────────────────────────────
+# Backup and autosave
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*~
+_autosave-*
+\#auto_saved_files#
+
+# Local project state (per-machine, not design)
+*.kicad_prl
+
+# Lock files
+*.lck
+~*.lck
+
+# Cache and generated
+fp-info-cache
+
+# Editor history (the .history folder you have)
+.history/
+
+# Exported outputs you may or may not want tracked
+# (you ARE keeping gerbers/, so it's NOT ignored here)
+
+# ─────────────────────────────────────────
+# MPLAB X / XC16 build artifacts
+# ─────────────────────────────────────────
+# Build output — regenerated on every compile
+build/
+dist/
+debug/
+.generated_files/
+
+# Compiler intermediates
+*.o
+*.d
+*.p1
+*.pre
+*.lst
+*.sym
+
+# MPLAB private/user-specific project state
+nbproject/private/
+nbproject/Package-*.bash
+
+# Optional: the compiled firmware image.
+# Keep it tracked if you want users to flash without building;
+# ignore it if you only want source. Uncomment to ignore:
+# *.hex
+# *.elf
+
+# ─────────────────────────────────────────
+# OS / editor cruft
+# ─────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/        # remove this line if you want to share VS Code settings

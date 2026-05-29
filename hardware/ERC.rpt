@@ -1,0 +1,103 @@
+ERC report (2026-05-29T01:21:38, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1650 mils, 2300 mils): Symbol U1 [PIC24FJ64GA002-I_SP]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1650 mils, 2300 mils): Symbol U1 Pin 1 [Unspecified, Line]
+    @(1100 mils, 2300 mils): Symbol R1 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1650 mils, 2600 mils): Symbol U1 Pin 4 [Unspecified, Line]
+    @(5150 mils, 1050 mils): Symbol J1 Pin 4 [Pin_4, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1650 mils, 2700 mils): Symbol U1 Pin 5 [Unspecified, Line]
+    @(5050 mils, 1050 mils): Symbol J1 Pin 5 [Pin_5, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1650 mils, 2800 mils): Symbol U1 Pin 6 [Unspecified, Line]
+    @(1200 mils, 6050 mils): Symbol J2 Pin 2 [Pin_2, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1650 mils, 2900 mils): Symbol U1 Pin 7 [Unspecified, Line]
+    @(1200 mils, 5950 mils): Symbol J2 Pin 3 [Pin_3, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; warning
+    @(1650 mils, 3000 mils): Symbol U1 Pin 8 [Unspecified, Line]
+    @(1200 mils, 3000 mils): Symbol #PWR010 Pin 1 [Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1650 mils, 3300 mils): Symbol U1 Pin 11 [Unspecified, Line]
+    @(1200 mils, 5850 mils): Symbol J2 Pin 4 [Pin_4, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1650 mils, 3500 mils): Symbol U1 Pin 13 [Unspecified, Line]
+    @(1150 mils, 3500 mils): Symbol C2 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(1650 mils, 3600 mils): Symbol U1 Pin 14 [Unspecified, Line]
+    @(1600 mils, 4200 mils): Symbol R5 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 2300 mils): Symbol U1 Pin 28 [Unspecified, Line]
+    @(9000 mils, 2300 mils): Symbol C3 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; warning
+    @(8550 mils, 2400 mils): Symbol U1 Pin 27 [Unspecified, Line]
+    @(8550 mils, 2400 mils): Symbol #PWR016 Pin 1 [Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 2500 mils): Symbol U1 Pin 26 [Unspecified, Line]
+    @(9200 mils, 5900 mils): Symbol SW2 Pin 2 [2, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 2600 mils): Symbol U1 Pin 25 [Unspecified, Line]
+    @(8150 mils, 5900 mils): Symbol SW1 Pin 2 [2, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 2700 mils): Symbol U1 Pin 24 [Unspecified, Line]
+    @(10300 mils, 5800 mils): Symbol J3 Pin 4 [Pin_4, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 2800 mils): Symbol U1 Pin 23 [Unspecified, Line]
+    @(10400 mils, 5800 mils): Symbol J3 Pin 3 [Pin_3, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 3000 mils): Symbol U1 Pin 21 [Unspecified, Line]
+    @(4700 mils, 4900 mils): Symbol J4 Pin 7 [Pin_7, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 3100 mils): Symbol U1 Pin 20 [Unspecified, Line]
+    @(9400 mils, 3000 mils): Symbol C1 Pin 1 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; warning
+    @(8550 mils, 3200 mils): Symbol U1 Pin 19 [Unspecified, Line]
+    @(8550 mils, 2400 mils): Symbol #PWR016 Pin 1 [Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 3300 mils): Symbol U1 Pin 18 [Unspecified, Line]
+    @(4600 mils, 4900 mils): Symbol J4 Pin 8 [Pin_8, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 3400 mils): Symbol U1 Pin 17 [Unspecified, Line]
+    @(5000 mils, 4900 mils): Symbol J4 Pin 4 [Pin_4, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 3500 mils): Symbol U1 Pin 16 [Unspecified, Line]
+    @(4800 mils, 4900 mils): Symbol J4 Pin 6 [Pin_6, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(8550 mils, 3600 mils): Symbol U1 Pin 15 [Unspecified, Line]
+    @(4900 mils, 4900 mils): Symbol J4 Pin 5 [Pin_5, Passive, Line]
+
+ ** ERC messages: 23  Errors 0  Warnings 23
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
